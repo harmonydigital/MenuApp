@@ -20,17 +20,17 @@ app.innerHTML=`
         <div class='appGalery'>
 
             <a  href='#'>
-                <img src='../assets/img/bebidas.png'>
+                <img src='assets/img/bebidas.png'>
                 <span>Bebidas Delivery</span>
             </a>
 
             <a href='#'>
-                <img src='../assets/img/pizzas.png'>
+                <img src='assets/img/pizzas.png'>
                 <span>Pizzas Delivery</span>
             </a>
 
             <a href='#'>
-                <img src='../assets/img/camarao.png'>
+                <img src='assets/img/camarao.png'>
                 <span>Praia Delivery</span>
             </a>
         </div>
